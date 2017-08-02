@@ -4,8 +4,8 @@ Este projeto tem como objetivo realizar a automação de partes importantes do s
 
 Para tanto foram utilizados os seguintes recursos para o desenvolvimento:
 
- - SO Windows 7 64bits versão XXXX
- - Browser Firefox versão XXXX
+ - SO Windows 7 64bits
+ - Browser Firefox versão 54.0.1
  - IDE Eclipse Neon 1
  - JDK versão 8
  - JUnit versão 4
